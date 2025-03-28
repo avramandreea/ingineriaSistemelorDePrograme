@@ -11,6 +11,6 @@ public class Student {
     public Student(String nume, String grupa) {
         this.nume = nume;
         this.grupa = grupa;
-        this note = new ArrayList<>();
+
     }
 }
