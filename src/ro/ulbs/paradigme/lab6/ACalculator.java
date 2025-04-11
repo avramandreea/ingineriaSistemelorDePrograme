@@ -1,7 +1,10 @@
 package ro.ulbs.paradigme.lab6;
 
 public abstract class ACalculator {
-    protected Object state;
+    public Object state;
+    public Object getState() {
+        return state;
+    }
     public Object result() {
         return state;
     }

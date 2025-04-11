@@ -1,4 +1,5 @@
 package ro.ulbs.paradigme.lab6;
+import ro.ulbs.paradigme.lab6.ACalculator;
 
 public class DoubleCalculator extends ACalculator{
 
